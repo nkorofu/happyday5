@@ -108,7 +108,7 @@ body {
   /* height: auto; */
 }
 
-.six .hat {
+.six  {
   left: 41.5%;
   position: absolute;
   /* transform: scale(0.1); */
@@ -227,25 +227,25 @@ body {
 
 /* Media Queries */
 @media screen and (max-height: 1000px) {
-  .six .hat {
+  .six  {
     left: 40%;
   }
 }
 
 @media screen and (max-height: 800px) {
-  .six .hat {
+  .six  {
     left: 37%;
   }
 }
 
 @media screen and (max-height: 700px) {
-  .six .hat {
+  .six  {
     left: 32%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
-  .six .hat {
+  .six  {
     left: 32%;
   }
 }
@@ -272,7 +272,7 @@ body {
     font-size: 10rem;
   }
 
-  .six .hat {
+  .six  {
     /* top: -20px; */
     width: 50px;
   }
